@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		6A62EDD18A5FDF85329C189B /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 2F9B47069010930CF14C8A41 /* libPods.a */; };
+		7C9DC94C1C2D570400A463FA /* noimage.png in Resources */ = {isa = PBXBuildFile; fileRef = 7C9DC94B1C2D570400A463FA /* noimage.png */; };
 		AADEB9241C09BE3A0068342F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = AADEB9231C09BE3A0068342F /* main.m */; };
 		AADEB9271C09BE3A0068342F /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = AADEB9261C09BE3A0068342F /* AppDelegate.m */; };
 		AADEB92A1C09BE3A0068342F /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AADEB9291C09BE3A0068342F /* ViewController.m */; };
@@ -24,6 +25,7 @@
 		2F9B47069010930CF14C8A41 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		46BF75841316F9BE5EE610AE /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
 		4E69C967180D72DB65FA41E4 /* Pods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.debug.xcconfig; path = "Pods/Target Support Files/Pods/Pods.debug.xcconfig"; sourceTree = "<group>"; };
+		7C9DC94B1C2D570400A463FA /* noimage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = noimage.png; sourceTree = "<group>"; };
 		AADEB91F1C09BE3A0068342F /* Places.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Places.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AADEB9231C09BE3A0068342F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		AADEB9251C09BE3A0068342F /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -95,6 +97,7 @@
 		AADEB9221C09BE3A0068342F /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				7C9DC94B1C2D570400A463FA /* noimage.png */,
 				AADEB9231C09BE3A0068342F /* main.m */,
 			);
 			name = "Supporting Files";
@@ -200,6 +203,7 @@
 			files = (
 				AADEB9321C09BE3A0068342F /* LaunchScreen.storyboard in Resources */,
 				AADEB92F1C09BE3A0068342F /* Assets.xcassets in Resources */,
+				7C9DC94C1C2D570400A463FA /* noimage.png in Resources */,
 				AADEB92D1C09BE3A0068342F /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
